@@ -23,7 +23,7 @@ Using the data for Brooklyn we attempt to explain patterns in the data set.
 
 ## Plots of Sold Homes in Brooklyn
 
-A scatter plot of Gross Square feet against Sales Price highlighting that the distribution is heavily right skewed, plot 1. A log of base ten of the data set yeilds a distribution that appears more normal with a clustering of data points the center.
+A scatter plot of Gross Square feet against Sales Price highlighting that the distribution is heavily right skewed, plot 1. A log of base ten of the data set yeilds a distribution that appears more normal with a clustering of data points the center. It does appear however that the larger the gross square footage of an apartment the more expensive it is, visually there appears to show evidence of some positive correlation.
 
 ```{r bk, echo=FALSE}
 setwd("C:/Users/EFarrugia/Documents/MSDS/DDS/Week5")
